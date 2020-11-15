@@ -2,7 +2,7 @@
 title: "Publications"
 bg: blue
 color: white
-fa-icon: check-square-o
+fa-icon: glasses
 ---
 
 # Publications
