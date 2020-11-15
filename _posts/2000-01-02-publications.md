@@ -2,7 +2,7 @@
 title: "Publications"
 bg: blue
 color: white
-fa-icon: glasses
+fa-icon: ing/ico-glasses.jpg
 ---
 
 # Publications
