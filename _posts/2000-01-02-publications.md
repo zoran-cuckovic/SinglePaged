@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-bg: red
+bg: blue
 color: white
 fa-icon: check-square-o
 ---
