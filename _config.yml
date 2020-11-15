@@ -4,6 +4,7 @@ port: 4000
 host: 0.0.0.0
 safe: false
 
+# style inspiration : http://excentris.net/compass/
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
