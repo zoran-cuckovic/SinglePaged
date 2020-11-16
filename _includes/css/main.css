@@ -213,7 +213,7 @@ nav ul li:hover, nav ul li.active {
   width:200px;
   height:200px;
   position: static;
-  /* margin-top: -20px; */
+  margin-top: 20px; 
   border-radius:50%; /*addition ZC*/
 }
 
