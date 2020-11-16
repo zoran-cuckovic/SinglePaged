@@ -9,7 +9,7 @@
 
 
 /* ----- base grid----- 
-! originally : width = 960, full coll = 940, bug coll = 620
+! originally : container width = 960, full coll = 940, bug coll = 620
 */
 
 .container               { position: relative; width: 820px; margin: 0 auto; padding: 0; }
