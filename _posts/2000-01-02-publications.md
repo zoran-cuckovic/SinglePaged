@@ -2,7 +2,7 @@
 title: "Publications"
 bg: blue
 color: white
-icon: img/ico-glasses.jpg
+icon: img/ico-glasses.png
 ---
 
 # Publications
