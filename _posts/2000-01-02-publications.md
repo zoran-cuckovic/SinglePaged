@@ -7,24 +7,17 @@ icon: img/ico-glasses.jpg
 
 # Publications
 
-### ...a selection
+### A short selection
 
-Got some *killer app*, some *neat project*, a cool portfolio? Make an easy single-page site to show it all off. SinglePaged uses jekyll niceties to make a ***polished, modular, and beautiful* single page site**.
+Čučković, Z. (2017). **[Topophilia and the emergence of prehistoric sanctuaries: an example from Istria, Croatia](/2018/topophilia-article)**. In J. Wilczek, A. Cannot, T. Le Cozanet, J. Remy (eds.) *Interdisciplinarité et nouvelles approches dans les recherches sur l'âge du Fer. / Interdisciplinarity and New Approaches in the Research of the Iron Age.* Dissertationes archaeologicae Brunenses / Pragensesque, Supplementum IV. P. 181-185.  [doi: 10.5817/CZ.MUNI.P210-8822-2017-31](https://dx.doi.org/10.5817/CZ.MUNI.P210-8822-2017-31)
+  
+Čučković, Z. (2017). [**Claiming the sea: Bronze Age fortified sites of the north-eastern Adriatic Sea (Cres and Lošinj islands, Croatia).**](/2017/claiming-the-sea) _World Archaeology_ vol 49, issue 4, pp. 526-546. [doi: 10.1080/00438243.2017.1341331](http://dx.doi.org/10.1080/00438243.2017.1341331)  
+  
+Čučković, Z. (2016). **[Advanced viewshed analysis: a Quantum GIS plug-in for the analysis of visual landscapes](/2016/article-joss).** _The Journal of Open Source Software_ 4(1). [doi: 10.21105/joss.00032](http://joss.theoj.org/papers/10.21105/joss.00032)  
+  
+Čučković, Z. (2015). [**Exploring intervisibility networks : a case study from Bronze and Iron Age Istria (Croatia and Slovenia)**](/2015/intervisibility-networks). In F. Giligny, F. Djindjian, L. Costa, P. Moscati and S. Robert (eds.) _CAA 2014 - 21st century Archeaology: concepts, methods and tools. Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology. Paris, April 2014_: 469 - 478.  
+  
+---------------------
 
-Oh-- go see [some examples](https://github.com/t413/SinglePaged#fancy-jekyll-powered-single-page-site)!
+A full list of publications can be found on my [**Humanities Commons page**](https://zoran.hcommons.org/publications/) or on [**academia.edu**](http://univ-fcomte.academia.edu/zoran).  
 
-- Each vertical section is a markdown file in **_posts/** directory.
-  * They're sorted by 'date'. (we don't use date anywhere, it only sorts)
-- Each vertical section sets it's own **color**, **header icon** (or image), **title**, and easy-to-write markdown body.
-- Only **two things** to edit:
-  1. Edit `_config.yml` to set the site title, description, etc
-  2. Add `_posts/*.md` to make each vertical section. Copy some examples and add the sections from your README.md for a fast start!
-- Easy adding of **SEO terms**, **favicon** & such, and **google analytics token**.
-
-Sound good? Let's go!
-
-There are three way to get started: (links jump to that section)
-
-1. Make a [**user homepage**](#setup-as-user-homepage) (or organization)
-2. Make a [**standalone project**](#setup-as-standalone-project-page) page
-3. Make a [site under an **existing project**](#setup-inside-existing-project)
