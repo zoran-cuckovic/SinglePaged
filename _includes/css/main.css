@@ -207,16 +207,16 @@ nav ul li:hover, nav ul li.active {
   height:200px;
   padding:15px;
   position:absolute;
-  top:-135px;
+  top:-150px;
   left:50%;
-  margin-left:-135px;
+  margin-left:-150px;
 }
 
 .sectiondivider img {
   width:150px;
   height:150px;
   position: static;
-  margin-top: 30px; 
+  margin-top: 20px; 
   border-radius:50%; /*addition ZC*/
 }
 
