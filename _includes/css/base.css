@@ -224,7 +224,7 @@
 		border-radius: 2px;
 		font: 13px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #777;
-		margin: auto;
+		/* margin: auto; */
 		width: 500px;
 		max-width: 100%;
 		display: block;
