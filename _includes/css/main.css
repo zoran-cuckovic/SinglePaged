@@ -85,6 +85,9 @@ hr {
     margin-top: 40px;
 }
 
+/* add ZC */
+.container form {padding: 0, 5%}
+
 /* keep embedded videos fluid! */
 .icontain {
   position: relative;
