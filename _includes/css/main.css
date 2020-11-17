@@ -86,7 +86,7 @@ hr {
 }
 
 /* add ZC */
-.container form {padding: 0, 5%}
+.container form {padding: 0 5%; font-size: 19px;}
 
 /* keep embedded videos fluid! */
 .icontain {

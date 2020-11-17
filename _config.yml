@@ -1,9 +1,4 @@
 ---
-
-port: 4000
-host: 0.0.0.0
-safe: false
-
 # style inspiration : http://excentris.net/compass/
 
 ### site serving configuration ###
@@ -28,10 +23,11 @@ google_analytics_key:  "UA-76855620-1"
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#5998C5'  
-  #navy 3E78B2
+  # blue:      '#5998C5'  
+  blue:  '#B4DCE4'
+  #navy 3E78B2   #stronger 
   dark_blue: '#0B4F6C'
-  green:     '#8FBC94' 
+  green:     '#B5BD89' 
   # green 2 9bcf2f' bljutava zelena C4E7D4   yellow green C4E7D4
   purple:    '#681469'        
   #purple 2 c869bf' 
@@ -41,7 +37,7 @@ colors:
   sand: '#F1EED9'
   sand2:  '#DBCFB0'
   sand3: '#F2DFD7'
-  orange:    '#fab125'
+  orange:    '#EA8C55'
   turquoise: '#0fbfcf'
   
 
