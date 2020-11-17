@@ -207,16 +207,16 @@ nav ul li:hover, nav ul li.active {
   height:200px;
   padding:15px;
   position:absolute;
-  top:-150px;
+  top:-100px;
   left:50%;
-  margin-left:-150px;
+  margin-left:-100px;
 }
 
 .sectiondivider img {
   width:150px;
   height:150px;
   position: static;
-  margin-top: 20px; 
+  margin-top: 15px; 
   border-radius:50%; /*addition ZC*/
 }
 
@@ -350,15 +350,15 @@ nav ul li:hover, nav ul li.active {
 
   .section { padding:130px 0; }
   .sectiondivider {
-    width:200px;
-    height:200px;
+    width:150px;
+    height:150px;
     padding:15px;
-    top:-100px;
-    margin-left:-100px;
+    top:-75px;
+    margin-left:-70px;
   }
   .sectiondivider img {
-    width:150px;
-    height:180px;
+    width:100px;
+    height:100px;
   }
   .sectiondivider .fa-stack {
     font-size: 100px;
