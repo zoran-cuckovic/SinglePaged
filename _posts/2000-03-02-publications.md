@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-bg: blue
+bg: bordeaux
 color: white
 icon: img/ico-glasses.png
 ---
