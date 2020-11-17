@@ -31,6 +31,7 @@ colors:
   blue:      '#49a7e9'
   green:     '#9bcf2f'
   purple:    '#681469'        #'#c869bf' 
+  bordeaux: '#757575'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
   sand: '#F1EED9'
