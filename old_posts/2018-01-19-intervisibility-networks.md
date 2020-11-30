@@ -3,7 +3,7 @@ layout: post
 title: "Exploring intervisibility networks : a case study from Bronze and Iron Age Istria (Croatia and Slovenia)."
 date: 2015-11-12
 author: zoran
-comments: true
+permalink: /2015/intervisibility-networks/
 canonical: https://zoran.hcommons.org/2015/intervisibility-networks/
 categories: right
 ---
